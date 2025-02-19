@@ -1,0 +1,7 @@
+{
+    "name": "python-project",
+    "version": "1.0.0",
+    "scripts": {
+      "start": "python hello.py"
+    }
+  }
